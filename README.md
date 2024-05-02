@@ -1,14 +1,14 @@
 # hancomcl_sqream_injitech
 
-(1) hail로 3개 vcf 합치는 작업: [hail/bpark]
-(2) sqream python 연결: [sqream/bpark]
+(1) hail로 3개 vcf 합치는 작업: [hail/bpark]</br>
+(2) sqream python 연결: [sqream/bpark]</br>
 
 vcf file에 대한 문서 [https://samtools.github.io/hts-specs/VCFv4.2.pdf]
 
 python vcf 라이브러리
-[https://vcfpy.readthedocs.io/en/stable/]
-[https://scikit-allel.readthedocs.io/en/stable/index.html] 개발 중단 -> sgkit
-[https://github.com/sgkit-dev/sgkit]
+[https://vcfpy.readthedocs.io/en/stable/]</br>
+[https://scikit-allel.readthedocs.io/en/stable/index.html] 개발 중단 -> sgkit</br>
+[https://github.com/sgkit-dev/sgkit]</br>
 
 scalable gVCF merging and joint variant calling for population sequencing projects [https://github.com/dnanexus-rnd/GLnexus]
 
