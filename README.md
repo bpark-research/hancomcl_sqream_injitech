@@ -6,6 +6,8 @@
 문서작성: https://docs.google.com/document/d/1dxSrIM52xJ5PlqMigxYxRSNkl1ufW0I1-BFfjq4M9nE/edit?usp=sharing
 
 ### Reference
+hail 2024년 논문 [https://www.biorxiv.org/content/10.1101/2024.01.09.574205v1]
+
 vcf file에 대한 문서 [https://samtools.github.io/hts-specs/VCFv4.2.pdf]
 
 python vcf 라이브러리</br>
